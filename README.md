@@ -14,7 +14,7 @@ Older/Special Models ->E36>Engine->MS41.1/2
 ---
 Click F3 and go to Coding section.
 **take note of your ISN for EWS. should look like "a42" it is case sensitive.
-![alt text](https://github.com/yoqais/MS41-EWS-SYNC/blob/main/INPA_ENGINE_CODING.jpg?raw=true)
+![INPA SCREENSHOT](https://github.com/yoqais/MS41-EWS-SYNC/blob/main/INPA_ENGINE_CODING.png?raw=true)
 
 Navigate to:
 ```bash
