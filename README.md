@@ -9,7 +9,7 @@ This guide will show you how to properly sync your E36's EWS to your ECU - avoid
 1. Open INPA:
 Navigate to:
 ```bash
-Older/Special Models ->E36>Engine->MS41.1/2
+Older/Special Models ->E36->Engine->MS41.1/2
 ```
 ---
 Click F3 and go to Coding section.
