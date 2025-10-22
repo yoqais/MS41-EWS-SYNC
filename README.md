@@ -13,6 +13,7 @@ Older/Special Models ->E36>Engine->MS41.1/2
 ```
 Click F3 and go to Coding section.
 **take note of your ISN for EWS. should look like "a42" it is case sensitive.
+---
 Navigate to:
 ```bash
 Older/Special Models ->E36>Body->ELectronic vehicle immobilization EWS
