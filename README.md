@@ -9,6 +9,7 @@ This guide will show you how to properly sync your E36's EWS to your ECU - avoid
 ---
 ## ⚡OBD2 port & x20 Diag Connector (Female):
 -Connect Pin 14 to Pin 18 to put the ECU in Write mode
+
 -Connect Pin 2 to Pin 17 to bridge the OBD2 port in the car to the ECU which enables flashing via obd2 port inside the car
 ---
 ---
